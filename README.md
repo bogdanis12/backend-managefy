@@ -10,8 +10,6 @@
 * [![Mongoose][Mongoose.js]][Mongoose-url]
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
@@ -23,31 +21,21 @@ This is a backend project ment to serve for a shift application. You have multip
     *comments
 
 
-
-
-
-
-
-
-
-
-
-
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@bogdan-lucian](https://www.linkedin.com/in/bogdan-lucian/) - 
+Your Name - [@bogdan-lucian](https://www.linkedin.com/in/bogdan-lucian/)
 
 Project Link: [https://github.com/bogdanis12/backend-managefy](https://github.com/bogdanis12/backend-managefy)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
