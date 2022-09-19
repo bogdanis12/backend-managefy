@@ -55,7 +55,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 [Express.js]: https://miro.medium.com/max/1400/1*i2fRBk3GsYLeUk_Rh7AzHw.png
 [Express-url]: https://expressjs.com
-[TypeScript]:https://titrias.com/files/2022/04/typescript.png
+[TypeScript]: https://img.icons8.com/color/344/typescript.png
 [TypeScript-url]: https://www.typescriptlang.org
 [MongoDB]: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png
 [MongoDB-url]: https://www.mongodb.com
