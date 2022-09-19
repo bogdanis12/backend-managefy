@@ -1,0 +1,14 @@
+{
+    "PORT": 3000,
+    "JWT_SECRET": "a55289c1997f3893acc041d601cfbc24a0cbb9612991de70ce2e0284176e994b03b7f834e934c24ff3c8fb3a9120b41f004f956b38400276f07ebd01b881fd1d",
+    "JWT_EXPIRY_TIME": "1h",
+    "MONGODB": {
+        "URI": ""
+    },
+    "EMAIL": {
+        "HOST":"",
+        "PORT":"",
+        "USER": "",
+        "PASSWORD": ""
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "MONGODB": {
+        "URI": "mongodb+srv://bogdanis12:a0193827456@cluster0.zwnd7.mongodb.net/test"
+    },
+    "EMAIL": {
+        "HOST":"smtp.mailtrap.io",
+        "PORT":2525,
+        "USER": "46e26933e4bb3f",
+        "PASSWORD": "722485eb732aea",
+        "FROM_ADDRESS": "Managefy <noreply>"
+    }
+}
